@@ -1,10 +1,10 @@
-# Landing Page Template
+# AI-Generated Landing Page Template
 
 ## English Description
-This repository contains a static HTML and CSS template for creating versatile landing pages. It is designed to dynamically generate content such as product showcases, calls to action, user testimonials, Q&A, pricing details, and company information, using natural language and AI dialogues.
+This repository hosts a static HTML and CSS landing page template dynamically generated using natural language through the 'v0' AI project. It is specifically crafted to include essential elements such as product showcases, calls to action, user testimonials, Q&A, pricing details, and company information, ideal for diverse business needs.
 
 ## 中文描述
-这个仓库包含一个用于创建多功能落地页面的静态HTML和CSS模板。它设计用来通过自然语言和AI对话动态生成产品展示、行动召唤、用户评价、问答、定价信息及公司信息等内容。
+这个仓库包含一个通过‘v0’ AI项目利用自然语言动态生成的静态HTML和CSS落地页面模板。它专门设计包括产品展示、行动召唤、用户评价、问答、定价信息及公司信息等必要元素，适合各种商业需求。
 
 ## Features 功能
 - **Product Showcase 产品展示**
