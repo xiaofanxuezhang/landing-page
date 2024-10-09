@@ -12,7 +12,7 @@ This repository hosts a static HTML and CSS landing page template dynamically ge
 
 View a live demo of the landing page here: [Landing Page Demo](https://landing-page-pi-kohl.vercel.app/)
 
-查看落地页面的在线演示，请访问这里：[落地页面演示](https://landing-page-pi-kohl.vercel.app/)
+查看落地页面的在线演示，请访问这里：[落地页面演示](https://464d23db.landing-page-5t9.pages.dev/)
 
 ## Features 功能
 
